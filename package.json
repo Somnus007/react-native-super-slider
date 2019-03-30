@@ -1,0 +1,30 @@
+{
+  "name": "react-native-super-slider",
+  "version": "1.0.0",
+  "description": "A high customized slider for react native",
+  "main": "MultiSlider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slider",
+    "react-native",
+    "customized"
+  ],
+  "author": "Allen (somnus.sxy@gmail.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*",
+    "react": "*",
+    "prop-types": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "7.2.3",
+    "eslint": "3.19.0",
+    "eslint-config-airbnb": "14.1.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "4.0.0",
+    "eslint-plugin-react": "6.10.3"
+  },
+  "deprecated": false
+}
